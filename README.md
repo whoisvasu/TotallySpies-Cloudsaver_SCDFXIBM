@@ -75,9 +75,10 @@ Download the _CDP_and_Sample_Data_ folder from the Repository and check for:
 ![spreadsheet](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/spreadsheet.png)
 
 18) Go back to the Jupyter Notebook File and continue running from the 3rd Cell Onwards
-- Be sure to watch out for the warnings as indicated to avoid your code being broken!
+- Be sure to watch out for the warnings as indicated to avoid your code from breaking!
 
-## You're done with the preperation! Time to test the code as stated on Jupyter Notebook
+## You're done with the preperation! Time to test the code as stated on 
+## Jupyter Notebook
 
 
 
