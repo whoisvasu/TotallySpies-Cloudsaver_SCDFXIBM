@@ -122,19 +122,19 @@ Now, we will connect IM Watson IoT to Node-Red, which will run locally on our co
 
 The code is also availble in this file, if you wished to directly import it on Node-Red via the **import** command. 
 
-[flows (1).json](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/flows_(1).json)
+[flows (1).json](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Node-RED%20Flows/Node-REDSensor%20Connection.json)
 
 2) Once you pasted the code, click **import**  to create the working flow. 
 
 It should look like this 
 
-![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.14.08.png](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.14.08.png)
+![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.14.08.png](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/Screenshot_2020-06-14_at_17.14.08.png)
 
 3) Now, let's configurate each node to connect to the IBM Watson IoT platform. 
 
 Click onto the first node (IBM IoT App In) and click the pen symbol to add a new API key. There, add the Key and Token (authentication Key) that you noted from the previous step. 
 
-![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.15.04.png](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.15.04.png)
+![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.15.04.png](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/Screenshot_2020-06-14_at_17.15.04.png)
 
 4) Once done, Add the Device ID that you used previously. If the node IBM IoT App Out does not update itself automatically with the data you just imported, do the same exact process for that part.  
 
@@ -142,7 +142,7 @@ Click onto the first node (IBM IoT App In) and click the pen symbol to add a new
 
 ^) Perfect, now, make sure to deploy the flow. Once deployed, both IBM IoT should show a green box saying "connected". If that is not the case, try to update your API key and deploy again. 
 
-![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.22.08.png](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.22.08.png)
+![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_17.22.08.png](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/Screenshot_2020-06-14_at_17.22.08.png)
 
 ## WRITING THE .TXT FILE AS THE SENSOR INPUTS DATA ONTO IBM WATSON IOT
 
