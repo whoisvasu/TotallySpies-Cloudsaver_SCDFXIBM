@@ -1,0 +1,2 @@
+{"d":{"x":20.4,"y":23,"tag":"#01-20","temp":60,"smoke_level":0.89,"humidity":10,"timestamp":"2020-06-14T18:45:00.000+08:00","loc":Yishun}}
+{"d":{"x":20.4,"y":23,"tag":"#01-20","temp":75,"smoke_level":0.91,"humidity":18,"timestamp":"2020-06-14T18:46:00.000+08:00","loc":Yishun}}

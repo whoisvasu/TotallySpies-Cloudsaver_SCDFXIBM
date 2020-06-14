@@ -1,0 +1,6 @@
+{"d":{"x":2.5,"y":3.5,"tag":"#03-24","temp":50,"smoke_level":0.89,"humidity":12,"timestamp":"2020-06-14T15:57:00.000+08:00","loc":Bishan}}
+{"d":{"x":2.5,"y":3.5,"tag":"#03-24","temp":60,"smoke_level":0.91,"humidity":11,"timestamp":"2020-06-14T15:58:00.000+08:00","loc":Bishan}}
+{"d":{"x":2.5,"y":3.5,"tag":"#03-24","temp":60,"smoke_level":0.95,"humidity":10,"timestamp":"2020-06-14T15:59:00.000+08:00","loc":Bishan}}
+{"d":{"x":2.5,"y":3.5,"tag":"#03-24","temp":70,"smoke_level":1.03,"humidity":10,"timestamp":"2020-06-14T16:00:00.000+08:00","loc":Bishan}}
+{"d":{"x":2.5,"y":3.5,"tag":"#03-24","temp":80,"smoke_level":1.1,"humidity":9,"timestamp":"2020-06-14T16:01:00.000+08:00","loc":Bishan}}
+{"d":{"x":2.5,"y":3.5,"tag":"#03-24","temp":90,"smoke_level":1.1,"humidity":8,"timestamp":"2020-06-14T16:02:00.000+08:00","loc":Bishan}}

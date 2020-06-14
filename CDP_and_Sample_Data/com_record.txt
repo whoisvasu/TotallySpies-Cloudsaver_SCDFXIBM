@@ -1,0 +1,5 @@
+{"text":"hello for fire in bishan and there is a fire at block three two one there I can see from outside three people in the fire and I feeling quite stressed and afraid ","tone":{"document_tone":{"tones":[{"score":0.856792,"tone_id":"fear","tone_name":"Fear"}]}}}
+{"text":"hello I in Kranji and there is a fire originating in the car park there are ten people in the fire but everyone here quite scared ","tone":{"document_tone":{"tones":[{"score":0.601591,"tone_id":"fear","tone_name":"Fear"}]}}}
+{"text":"got fire in Yishun and there is a fire resonating at block three one three void deck the number of people is five wah the vibe quite afraid ah ","tone":{"document_tone":{"tones":[{"score":0.531591,"tone_id":"fear","tone_name":"Fear"}]}}}
+{"text":"hello I am in a bishan and I see a figure on the third floor with 4 people very loud and scary ","tone":{"document_tone":{"tones":[{"score":0.881591,"tone_id":"fear","tone_name":"Fear"}]}}}
+{"text":"Hey I am in Yishun and there is a fire at the void deck and there are 5 people looks like fire dying down its okay","tone":{"document_tone":{"tones":[{"score":0.351591,"tone_id":"fear","tone_name":"Fear"}]}}}
