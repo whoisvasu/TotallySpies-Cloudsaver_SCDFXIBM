@@ -1,4 +1,4 @@
-# TotallySpies-Cloudsaver_SCDFXIBM
+# TotallySpies-Cloudsaver_SCDFXIBM                                    
 
 We are group of students from Yale-NUS college, wishing to embark on this Hackathon to broaden our perspectives and play a part in securing Singapore's safety, through the use of advanced technology. We are passionate about and motivated by problem-solving, with a keen interest in the integrtion of technology to provide solutions for everyday problems. 
 
@@ -26,7 +26,7 @@ To ensure that data is efficiently and accurately collected and translated to ma
 
 ## Part C - Architecture of Proposed Solution
 
-![Architect](link)
+![Architect](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/architecture.png)
 
 ## Part D - Hyperlink of Detailed Solution
 
@@ -34,7 +34,7 @@ To ensure that data is efficiently and accurately collected and translated to ma
 
 ## Part E - Project Timeline
 
-![Timeline](link)
+![Timeline](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/timeline.png)
 
 ## Part F - Getting Started
 
