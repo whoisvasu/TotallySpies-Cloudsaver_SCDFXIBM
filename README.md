@@ -1,15 +1,50 @@
 # TotallySpies-Cloudsaver_SCDFXIBM
- We are Totally Spies
+
+We are group of students from Yale-NUS college, wishing to embark on this Hackathon to broaden our perspectives and play a part in securing Singapore's safety, through the use of advanced technology. We are passionate about and motivated by problem-solving, with a keen interest in the integrtion of technology to provide solutions for everyday problems. 
+
+__We are Totally Spies, and we are here to Occupy!__ -------------- _Antrusha, Kai, Sam, Simone, Vasu_
+
+
+## Part A - Short Description
+
+__What’s the problem?__
+ 
+With climate change resulting in the urban heat island effect of increased temperatures and higher air pollution, it has contributed to the increased risk of heat-related injuries. This is particularly risky for First Responders who already face physically challenging operations in fire-related emergencies as it increases the strain on their bodies’ heat tolerance. Furthermore, as weather extremities become increasingly common, vegetation fires and electrical fires breakout more frequently, resulting in a higher need for intervention by First Responders.
+
+__How can technology help?__
+
+Real-time monitoring sensors will allow for early detection and enable First Responders to get live updates of the local situation which increases situational awareness of the operation. A centralised data platform will allow for different stakeholders to contribute and obtain detailed information without the hassle of miscommunication, maximising the efficiency of operations to increase the safety and performance of First Responders. 
+
+__The Idea__
+
+To ensure that data is efficiently and accurately collected and translated to maximize the operations of First Responders, we will adopt a central database system called “Cloudsaver”, backed by IBM Cloud storage and IoT technologies. This will enable First Responders to respond more efficiently and safely in the face of an increased risk and frequency of fire-related emergencies. 
+
+## Part B - Pitch Video
+
+(insert link later)
+
+
+## Part C - Architecture of Proposed Solution
+
+![Architect](link)
+
+## Part D - Hyperlink of Detailed Solution
+
+[Project Cloudsaver](https://docs.google.com/document/d/11WGcwiu8O6XnnvPLRTGHo0gmFj3ji5541ztsV6U9FFA/edit)
+
+## Part E - Project Timeline
+
+![Timeline](link)
+
+## Part F - Getting Started
+
+Section 1 - Cloudie Input
  
  
- Part 1 of Code (Simone)
+ Section 2 - Community Input (995 Calls)
  
  
- Part 2 of Code (Sam)
- 
- 
- 
- Part 3 of Code (Vasu)
+ Section 3 - Compilation and Platform
 
 ## Compiling Data in the Central Database Platform
 
@@ -78,6 +113,33 @@ Download the _CDP_and_Sample_Data_ folder from the Repository and check for:
 - Be sure to watch out for the warnings as indicated to avoid your code from breaking!
 
 # You're done with the preperation! Time to test the code as stated on Jupyter Notebook
+
+
+## Part G - Running the Test
+
+For our Cloudie Sensor Data, due to time and resource constraints we are unable to provide any means to test it, since the sensor data being outputted right now is not exactly relavant to our proposed solution.
+
+As for community input, using the makeshift 995 call receiver, faciliated by microphone detection with Node RED (following the steps laid out in Section 2 of Part F), the user is able to pretend that they are in a state of emergency and speak into their microphones, with the system outputting what they have said along with a probability of their being in a state of fear. 
+
+In testing the entire Centralised Database Platform, following the steps laid out in Section 3 of Part F, the user is able to visualise how data will finally be stratified and presented on the spreadsheet, before it is disseminated to the relavant parties. By tweaking the values in the .csv files provided, the user can emulate changing circumstances and how this might affect overall data representation and presentation.
+
+
+## Part H - Live Demo
+
+links hopefully
+
+## Part I - Solution Building Tools
+
+- IBM Cloud Functions - Watson Assistant, Watson IoT Platform, 
+- Google Spreadsheets
+- Jupyter Notebook
+- Node-RED
+- GitHub
+
+
+Notwithstanding time and resource constraints, we would like to further develop on our usage of, or by including the following tools
+- IBM Cloudant
+- IBM Machine Learning Instances
 
 
 
