@@ -52,11 +52,13 @@ Due to the time constraint of the competition, and to lack of appropriate hardwa
 
 1) Make sure to note down your Organisation ID, that you will need to input later to register your device both on IBM Watson IoT and Node-Red. You can find it on the top right corner, below your login username. 
 
-![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_16.16.03.png](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_16.16.03.png)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db1ebc99-fd69-452f-aa4b-82e38473d46b/Screenshot_2020-06-14_at_16.16.03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200614%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200614T100057Z&X-Amz-Expires=86400&X-Amz-Signature=a43ff2074a2557ec7902b2472e380a2605a1e97e99e116b43ece762c2643b206&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_2020-06-14_at_16.16.03.png%22
+](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db1ebc99-fd69-452f-aa4b-82e38473d46b/Screenshot_2020-06-14_at_16.16.03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200614%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200614T100057Z&X-Amz-Expires=86400&X-Amz-Signature=a43ff2074a2557ec7902b2472e380a2605a1e97e99e116b43ece762c2643b206&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_2020-06-14_at_16.16.03.png%22
+)
 
 2) Click on the device tab on the left menu. Then, click "add device" on the top right corner, 
 
-![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_16.17.34.png](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_16.17.34.png)
+![https://www.notion.so/CONNECTING-SENSORS-TO-IBM-WATSON-IOT-AND-NODE-RED-TO-STORE-DATA-ONTO-A-TEXT-FILE-f3b91f38e7e340239b271631061beb9e](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/Screenshot_2020-06-14_at_16.17.34.png)
 
 3) Now, add the Device Type of your smartphone. In this case, you can add **Android** for Android devices, or **IOS** for apple devices. Now, in the Device ID, type a code that must be unique to this device. For example, type 112233445566. Click next. 
 
