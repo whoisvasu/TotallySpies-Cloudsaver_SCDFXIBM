@@ -1,4 +1,7 @@
-# TotallySpies-Cloudsaver_SCDFXIBM                                    
+ ![Logo](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/clouyas.png)
+
+# TotallySpies-Cloudsaver_SCDFXIBM
+
 
 We are group of students from Yale-NUS college, wishing to embark on this Hackathon to broaden our perspectives and play a part in securing Singapore's safety, through the use of advanced technology. We are passionate about and motivated by problem-solving, with a keen interest in the integrtion of technology to provide solutions for everyday problems. 
 
