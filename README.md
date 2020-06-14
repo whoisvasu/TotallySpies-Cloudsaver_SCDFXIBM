@@ -24,7 +24,7 @@ To ensure that data is efficiently and accurately collected and translated to ma
 
 ## Part B - Pitch Video
 
-(insert link later)
+https://youtu.be/k6Jhf-dmYvo
 
 
 ## Part C - Architecture of Proposed Solution
@@ -356,7 +356,7 @@ In testing the entire Centralised Database Platform, following the steps laid ou
 
 ## Part H - Live Demo
 
-links hopefully
+Links in Demo Folder
 
 ## Part I - Solution Building Tools
 
