@@ -1,0 +1,493 @@
+[
+    {
+        "id": "9a46121a.b4458",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "Increased situational awarness\r\nreduction of miscommunication\r\n\r\n"
+    },
+    {
+        "id": "35cd96c5.a76e7a",
+        "type": "ui_tab",
+        "z": "",
+        "name": "COVID Voice Chatbot",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ea086b94.2bb198",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "b47b3ed7.c8dd7",
+        "type": "ui_group",
+        "z": "",
+        "name": "Record",
+        "tab": "35cd96c5.a76e7a",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "ce5d7920.8da968",
+        "type": "ui_group",
+        "z": "",
+        "name": "Chat",
+        "tab": "35cd96c5.a76e7a",
+        "order": 2,
+        "disp": true,
+        "width": "10",
+        "collapse": false
+    },
+    {
+        "id": "e6bf8f39.4d2c4",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "b47b3ed7.c8dd7",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "891a7144.680bb",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "iot.eclipse.org",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "778b19af.183b98",
+        "type": "ui_tab",
+        "z": "",
+        "name": "COVID Voice Chatbot",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f86aa449.ee1a88",
+        "type": "ui_group",
+        "z": "",
+        "name": "Record",
+        "tab": "778b19af.183b98",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "a912f9f5.2cb748",
+        "type": "ui_group",
+        "z": "",
+        "name": "Chat",
+        "tab": "778b19af.183b98",
+        "order": 2,
+        "disp": true,
+        "width": "10",
+        "collapse": false
+    },
+    {
+        "id": "ed038779.0ae118",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "f86aa449.ee1a88",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2f61d4d7.b1aefc",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "iot.eclipse.org",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "98437d1b.607c5",
+        "type": "ibmiot",
+        "z": "",
+        "name": "",
+        "keepalive": "60",
+        "serverName": "",
+        "cleansession": true,
+        "appId": "",
+        "shared": false
+    },
+    {
+        "id": "110b7f36.edc261",
+        "type": "microphone",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "x": 122,
+        "y": 40,
+        "wires": [
+            [
+                "e3a470b.e0a4b9"
+            ]
+        ]
+    },
+    {
+        "id": "e3a470b.e0a4b9",
+        "type": "watson-speech-to-text",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "alternatives": 1,
+        "speakerlabels": true,
+        "smartformatting": false,
+        "lang": "en-US",
+        "langhidden": "en-US",
+        "langcustom": "NoCustomisationSetting",
+        "langcustomhidden": "",
+        "custom-weight": "0.5",
+        "band": "BroadbandModel",
+        "bandhidden": "",
+        "keywords": "",
+        "keywords-threshold": "0.5",
+        "word-confidence": false,
+        "password": "",
+        "apikey": "G7_7_NQe2yWZLmAN4imcg5syP0aatl2j9wNAKtOUCeCL",
+        "payload-response": false,
+        "streaming-mode": false,
+        "streaming-mute": true,
+        "auto-connect": false,
+        "discard-listening": false,
+        "disable-precheck": false,
+        "service-endpoint": "",
+        "x": 252,
+        "y": 100,
+        "wires": [
+            [
+                "87145f30.c3bcc",
+                "d31b45e7.69da08"
+            ]
+        ]
+    },
+    {
+        "id": "87145f30.c3bcc",
+        "type": "debug",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "transcription",
+        "targetType": "msg",
+        "x": 362,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "86abadc2.8d03a",
+        "type": "debug",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 310,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "d31b45e7.69da08",
+        "type": "change",
+        "z": "9a46121a.b4458",
+        "name": "transcribe",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "transcription",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "chatstart",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 152,
+        "y": 160,
+        "wires": [
+            [
+                "ec52dea2.f8e83",
+                "7b518956.121fe8"
+            ]
+        ]
+    },
+    {
+        "id": "4f199617.9f2dc8",
+        "type": "file",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "filename": "C:/Users/user/Desktop/record.txt",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 162,
+        "y": 240,
+        "wires": [
+            [
+                "86abadc2.8d03a"
+            ]
+        ]
+    },
+    {
+        "id": "ec52dea2.f8e83",
+        "type": "watson-tone-analyzer-v3",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "tones": "all",
+        "sentences": "true",
+        "contentType": "false",
+        "tone-method": "generalTone",
+        "interface-version": "2017-09-21",
+        "inputlang": "en",
+        "service-endpoint": "",
+        "x": 432,
+        "y": 200,
+        "wires": [
+            [
+                "4ba5b8ea.429728"
+            ]
+        ]
+    },
+    {
+        "id": "929db664.1ac0d8",
+        "type": "file",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "filename": "C:/Users/user/Desktop/emotion_record.txt",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 232,
+        "y": 380,
+        "wires": [
+            [
+                "78f243bf.e94c5c"
+            ]
+        ]
+    },
+    {
+        "id": "78f243bf.e94c5c",
+        "type": "debug",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 162,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "4ba5b8ea.429728",
+        "type": "function",
+        "z": "9a46121a.b4458",
+        "name": "Formatting payload",
+        "func": "msg.payload = {\n    \"text\" : msg.payload,\n    \"tone\" : msg.response,\n    \"sentiment\" : msg.sentiment\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 510,
+        "y": 280,
+        "wires": [
+            [
+                "c67047ab.5fe438",
+                "1c1b6324.819a0d",
+                "97ffba7.1fe4348",
+                "929db664.1ac0d8"
+            ]
+        ]
+    },
+    {
+        "id": "c67047ab.5fe438",
+        "type": "debug",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "active": false,
+        "console": "false",
+        "complete": "payload.text",
+        "x": 630,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "1c1b6324.819a0d",
+        "type": "debug",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "active": false,
+        "console": "false",
+        "complete": "payload.tone",
+        "x": 630,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "97ffba7.1fe4348",
+        "type": "debug",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "active": false,
+        "console": "false",
+        "complete": "payload.sentiment",
+        "x": 650,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "7b518956.121fe8",
+        "type": "csv",
+        "z": "9a46121a.b4458",
+        "name": "",
+        "sep": ",",
+        "hdrin": "",
+        "hdrout": "",
+        "multi": "one",
+        "ret": "\\n",
+        "temp": "",
+        "skip": "0",
+        "strings": true,
+        "x": 122,
+        "y": 200,
+        "wires": [
+            [
+                "4f199617.9f2dc8"
+            ]
+        ]
+    }
+]
