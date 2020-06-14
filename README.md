@@ -30,7 +30,7 @@ Download the _CDP_and_Sample_Data_ folder from the Repository and check for:
 4) Run the first cell to install all necessary libraries we've used, and the second to import the libraries onto Jupyter Notebook
 ![Cell 1](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/Cell%201.png)
 
-###### We will be utilising Google APIs to link our Jupyter Notebook onto our Final Central Database Platform on Google Spreadsheets, hence the next few steps will go through the steps to incorporate the necessary elements to integrate the Spreadsheet with Jupyter Notebook
+##### We will be utilising Google APIs to link our Jupyter Notebook onto our Final Central Database Platform on Google Spreadsheets, hence the next few steps will go through the steps to incorporate the necessary elements to integrate the Spreadsheet with Jupyter Notebook
 
 5) Go to the [Google Developer Console](https://console.developers.google.com/) and click on __Create Project__
 
@@ -54,12 +54,13 @@ Download the _CDP_and_Sample_Data_ folder from the Repository and check for:
 12) *Fill in any application name, scroll to the bottom and click on __Save__. After which, go back to the __previous tab__*
 ![consent screen](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/consent%20screen.png)
 
-13) Enter a __Service Account Name__, change the role to __Service Account User__, and select __JSON__ as the key type, and click on __Continue__
+13) Enter a __Service Account Name__, change role to __Service Account User__, select __JSON__ as the key type, and click on __Continue__
+
 ![cred screen](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/add%20cred.png)
 
 14) A file should be downloaded. Save it in your _CDP_and_Sample_Data_ folder.
 
-###### We will now be creating a Google Spreadsheet and linking it to the Google API that we just created
+##### We will now be creating a Google Spreadsheet and linking it to the Google API that we just created
 
 15) Open the .json file that was previously downloaded (You can use any text editor to do so), and copy the __client_email__ 
 ![client email](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/client%20email.png)
