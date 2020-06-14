@@ -20,7 +20,7 @@ Download the _CDP_and_Sample_Data_ folder from the Repository and check for:
 - Five .txt files - _sen_1.txt_ to _sen_4.txt_ and _com_record.txt_
 
 ##### Step 2: Downloading the require software
-1) Download Anaconda from https://www.anaconda.com/products/individual (Scroll to the bottom and download according to your respective OS)
+1) Download [Anaconda](https://www.anaconda.com/products/individual) (Scroll to the bottom and download according to your respective OS)
 
 2) Open Anaconda and Run Jupyter Notebook from the Anaconda Interface
 ![Image of Anaconda Interface](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/anaconda.png)
