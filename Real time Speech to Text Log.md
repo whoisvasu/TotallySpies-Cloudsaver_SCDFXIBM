@@ -38,7 +38,7 @@ npm install node-red-contrib-browser-utils
 
 [import_flow_STT.txt](Real%20time%20Speech%20to%20Text%20log%20d1b95d1cf1c9446ebc89a4f59e627f7a/import_flow_STT.txt)
 
-![Real%20time%20Speech%20to%20Text%20log%20d1b95d1cf1c9446ebc89a4f59e627f7a/nodered.png](Real%20time%20Speech%20to%20Text%20log%20d1b95d1cf1c9446ebc89a4f59e627f7a/nodered.png)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/943fb0d6-3498-448b-b602-76807585d620/nodered.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200614%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200614T094406Z&X-Amz-Expires=86400&X-Amz-Signature=2efc8b9aea87d490c7b9bd970906b2990d515e5883dfa1cbb01e779bc72b11bc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22nodered.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/943fb0d6-3498-448b-b602-76807585d620/nodered.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200614%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200614T094406Z&X-Amz-Expires=86400&X-Amz-Signature=2efc8b9aea87d490c7b9bd970906b2990d515e5883dfa1cbb01e779bc72b11bc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22nodered.png%22)
 
 After importing the code, the Node-RED diagram should appear on the application.
 
