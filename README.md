@@ -77,8 +77,7 @@ Download the _CDP_and_Sample_Data_ folder from the Repository and check for:
 18) Go back to the Jupyter Notebook File and continue running from the 3rd Cell Onwards
 - Be sure to watch out for the warnings as indicated to avoid your code from breaking!
 
-## You're done with the preperation! Time to test the code as stated on 
-## Jupyter Notebook
+# You're done with the preperation! Time to test the code as stated on Jupyter Notebook
 
 
 
