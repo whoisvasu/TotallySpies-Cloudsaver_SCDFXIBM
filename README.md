@@ -156,7 +156,7 @@ The file should look like this.
 
 3) For the sake of our early stages of development, we decided to use the same exact format to simulate data from Cloudy Sensors. Hence, our file from sensors would look like this. 
 
-![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/WhatsApp_Image_2020-06-14_at_05.04.31_(1).jpeg](CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/WhatsApp_Image_2020-06-14_at_05.04.31_(1).jpeg)
+![CONNECTING%20SENSORS%20TO%20IBM%20WATSON%20IOT%20AND%20NODE%20RED%20%20ccb3e6bb345349609007b1d3a3914c28/WhatsApp_Image_2020-06-14_at_05.04.31_(1).jpeg](https://github.com/whoisvasu/TotallySpies-Cloudsaver_SCDFXIBM/blob/master/Photos%20for%20Markdown/WhatsApp_Image_2020-06-14_at_05.04.31_(1).jpeg)
 
 Due to time constraints, the file is right now being written only locally on our computer. Going forward, we will make a constant upload of this data back onto the IBM Watson IoT. From there, we would upload it onto the IBM Cloud, in a dedicated database. As this will be done, Cloudsaver will then run through all the data that will be constantly and instantly stored on to the cloud (or in this case the local file that can be included into any database the SCDF is already using, to then have Dloudsaver screen that database instead), and transmitting data indicating possible emergencies or dangerous situation onto our centralised database, accessible for the SCDf fire-fighters to use, as to enhance the ability to detect any possible danger as soon as possible.
  
